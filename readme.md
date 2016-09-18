@@ -8,6 +8,19 @@ Build a mobile application (which can be run on ios/android simulator).
     twilio.js     // use twilio lookup to determine phone number format
     readme.md
 
+### How to use
+
+    git clone 
+    cd tbv-challenge-q1/reactNative
+    npm install
+    npm start
+
+### Dependences
+
+    - [ ] node
+    - [ ] react-native cli (npm install)
+    - [ ] watchman (brew install)
+
 ### Investigation
 
 #### Existing Libraries  
@@ -25,8 +38,6 @@ Build a mobile application (which can be run on ios/android simulator).
 #### E.123 vs E.164 numbering standards;
 
 [E164](https://en.wikipedia.org/wiki/E.164)  
-
-
 
 ### Todo 
 
