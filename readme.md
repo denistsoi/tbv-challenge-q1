@@ -34,6 +34,7 @@ Build a mobile application (which can be run on ios/android simulator).
 
 - Overview [Wiki](https://en.wikipedia.org/wiki/List_of_country_calling_codes)  
 - UK Telephone Numbers[Wiki](https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom)  
+- List of World Mobile Patterns [Wiki](https://en.wikipedia.org/wiki/List_of_mobile_phone_number_series_by_country#United_Kingdom)  
 
 #### E.123 vs E.164 numbering standards;
 
