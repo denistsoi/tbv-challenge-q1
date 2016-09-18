@@ -12,6 +12,9 @@ import {
   View
 } from 'react-native';
 
+const Contacts = require('react-native-contacts');
+
+
 class reactNative extends Component {
   render() {
     return (
