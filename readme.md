@@ -19,7 +19,8 @@ Build a mobile application (which can be run on ios/android simulator).
 
 #### Country Codes 
 
-[Wiki](https://en.wikipedia.org/wiki/List_of_country_calling_codes)  
+- Overview [Wiki](https://en.wikipedia.org/wiki/List_of_country_calling_codes)  
+- UK Telephone Numbers[Wiki](https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom)  
 
 #### E.123 vs E.164 numbering standards;
 
